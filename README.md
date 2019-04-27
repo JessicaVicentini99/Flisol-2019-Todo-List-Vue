@@ -1,4 +1,4 @@
-# teste-chat
+# todo-list
 
 ## Project setup
 ```
